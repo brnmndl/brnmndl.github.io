@@ -85,8 +85,8 @@
   <main class="page">
     <header>
       <div>
-        <div class="name">Barun Mandal</div>
-        <div class="title">Site Reliability Engineer</div>
+        <div class="name"></div>
+        <div class="name">Site Reliability Engineer</div>
       </div>
       <div class="contact">
         <p>Email: <a href="mailto:brnmndl@email.com">brnmndl@email.com</a></p>
