@@ -158,9 +158,12 @@
           <span class="badge">Terraform</span>
           <span class="badge">Ansible</span>
           <span class="badge">CI/CD (GitOps)</span>
+          <span class="badge">Jenkins</span>
+          <span class="badge">ArgoCD</span>
           <span class="badge">Grafana</span>
-          <span class="badge">Thanos</span>
           <span class="badge">Prometheus</span>
+          <span class="badge">Thanos</span>
+          <span class="badge">Mimir</span>
           <span class="badge">InfluxDB</span>
           <span class="badge">Loki</span>
           <span class="badge">Tempo</span>
@@ -179,6 +182,11 @@
           <span class="badge">On-prem (Openstack)</span>
           <span class="badge">AWS</span>
           <span class="badge">Azure</span>
+          <span class="badge">Gatling</span>
+          <span class="badge">Locust</span>
+          <span class="badge">k6</span>
+          <span class="badge">JMeter</span>
+          <span class="badge">LoadRunner</span>
         </div>
       </section>
 
@@ -187,15 +195,15 @@
         <h2>Projects</h2>
         <div class="item">
           <div class="role">Observability Platform Modernization</div>
-          <div class="meta">Prometheus + Tempo/Loki + Grafana • 2025</div>
+          <div class="meta">Prometheus + Thanos/Mimir + Vector/OTel + Loki + Tempo + Grafana • 2025</div>
           <ul>
-            <li>Migrated fragmented monitoring to a unified stack with service-level dashboards and alerts.</li>
+            <li>Migrated fragmented monitoring to a unified stack running in k8s with service-level dashboards and alerts.</li>
             <li>Reduced false positives by tuning alerting with multi-signal correlation and SLO-based alerts.</li>
           </ul>
         </div>
         <div class="item">
           <div class="role">Deployment Automation</div>
-          <div class="meta">Terraform + GitOps • 2025</div>
+          <div class="meta"> GitOps + ArgoCD/Jenkins + Terraform + Ansible • 2025</div>
           <ul>
             <li>Implemented GitOps workflows, standardized environments, and minimized manual changes.</li>
           </ul>
