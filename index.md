@@ -230,11 +230,11 @@
       <section class="section">
         <h2>Certifications</h2>
         <ul>
-          <li>Cloud Computing: Core Concepts (Issued May 2020) — <a href="https://www.linkedin.com/learning/certificates/ec6aab078ae7267727a51148b525149d99aaf158e82aeccac58380f43853323f?trk=backfilled_certificate">Credential</a></li>
-          <li>Microsoft Certified: Azure Fundamentals (Issued May 2020) — <a href="https://www.credly.com/badges/b96985c2-eba5-4622-8aac-135d362f944f/linked_in_profile">Credential</a></li>
-          <li>Interactive Python Dashboards with Plotly and Dash (Issued Aug 2018) — <a href="https://www.udemy.com/certificate/UC-RNQ00DZZ/">Credential</a></li>
-          <li>Machine Learning by Stanford University (online) (Issued Oct 2017) — <a href="https://www.coursera.org/account/accomplishments/certificate/PY5ZNCQMV467">Credential</a></li>
-          <li>Python 3 (Issued Jul 2016) — <a href="https://www.sololearn.com/en/Profile/1519398/">Credential</a></li>
+          <li>Cloud Computing: Core Concepts — <a href="https://www.linkedin.com/learning/certificates/ec6aab078ae7267727a51148b525149d99aaf158e82aeccac58380f43853323f?trk=backfilled_certificate">Credential</a></li>
+          <li>Microsoft Certified: Azure Fundamentals — <a href="https://www.credly.com/badges/b96985c2-eba5-4622-8aac-135d362f944f/linked_in_profile">Credential</a></li>
+          <li>Interactive Python Dashboards with Plotly and Dash — <a href="https://www.udemy.com/certificate/UC-RNQ00DZZ/">Credential</a></li>
+          <li>Machine Learning by Stanford University (online) — <a href="https://www.coursera.org/account/accomplishments/certificate/PY5ZNCQMV467">Credential</a></li>
+          <li>Python 3 — <a href="https://www.sololearn.com/en/Profile/1519398/">Credential</a></li>
         </ul>
       </section>
 
