@@ -241,7 +241,7 @@
       <section class="section">
         <h2>Links</h2>
         <ul>
-          <li>LinkedIn: <a href="https://www.linkedin.com/in/barun-mandal-12660817">barun-mandal-12660817</a></li>
+          <li>LinkedIn: <a href="https://www.linkedin.com/in/barun-mandal-12660817">barun-mandal</a></li>
           <li>GitHub: <a href="https://github.com/brnmndl">brnmndl</a></li>
           <li>Portfolio: <a href="https://brnmndl.github.io">brnmndl.github.io</a></li>
         </ul>
