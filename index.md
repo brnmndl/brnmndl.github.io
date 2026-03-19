@@ -99,10 +99,13 @@
       <section class="section">
         <h2>Profile</h2>
         <p class="muted">
-            Site Reliability / Platform / DevOps Engineer with 10+ years of experience in designing, building, and scaling reliable systems across on-prem, AWS, and Azure environments. Strong expertise in observability and monitoring using the Grafana stack (Grafana, Mimir, Loki, Tempo, Prometheus) along with Thanos, Vector, Splunk and ELK stack.
+            Site Reliability, Platform & DevOps Engineer with 10+ years of experience designing, building, and scaling reliable systems across on-prem, AWS and Azure environments.
         </p>
         <p class="muted">
-            Proven skills in Kubernetes, CI/CD (Git, Jenkins), Ansible and Terraform, with deep experience in performance engineering using tools such as Gatling, Locust, JMeter, k6, LoadRunner and Neoload. Proficient in Go, Java, Python, Scala, C/C# and Shell scripting, with hands-on expertise in troubleshooting issues, application profiling, performance tuning and security testing (SQLi, XSS, etc).
+            Deep expertise in observability and monitoring with the Grafana stack (Grafana, Mimir, Loki, Tempo, Prometheus), Thanos, Vector, Splunk, and the ELK stack. Skilled in Kubernetes, CI/CD (Git, Jenkins), Ansible, and Terraform — with a strong track record in performance engineering using Gatling, Locust, JMeter, k6 and LoadRunner.
+        </p>
+        <p class="muted">
+            Proficient in Go, Java, Python, Scala, C/C#, and Shell scripting. Hands-on experience in troubleshooting complex systems, application profiling, performance tuning and security assessment.
         </p>
       </section>
 
@@ -110,9 +113,10 @@
         <h2>Core Skills</h2>
         <div>
           <span class="badge">SRE</span>
-          <span class="badge">DevOps</span>
           <span class="badge">Observability</span>
           <span class="badge">SLI/SLO/Error Budgets</span>
+          <span class="badge">DevOps</span>
+          <span class="badge">Platform Engineering</span>
           <span class="badge">Incident Response</span>
           <span class="badge">Automation</span>
           <span class="badge">Performance & Capacity Engineering</span>
@@ -128,8 +132,10 @@
           <div class="meta">March 2025 - Stockholm, Sweden</div>
           <ul>
             <li>Owned reliability KPIs (SLIs/SLOs) and drove error budget policy across critical services.</li>
-            <li>Improved observability with unified metrics, logs, and traces; reduced MTTR via runbooks.</li>
-            <li>Automated deployments and operational tasks to eliminate TOIL and increase consistency.</li>
+            <li>Improved observability with unified metrics, logs and traces; reduced MTTR via structured runbooks and automated alerting.</li>
+            <li>Automated deployments and operational tasks to eliminate toil, increase consistency and accelerate delivery cycles.</li>
+            <li>Hands-on experience operating large-scale production Kubernetes environments — including on-call, incident response and postmortem practices.</li>
+            <li>Built AI agents and MCP server integrations for intelligent metrics discovery and anomaly detection, reducing noise and faster triage.</li>
           </ul>
         </div>
         <div class="item">
@@ -173,6 +179,7 @@
           <span class="badge">OpenTelemetry</span>
           <span class="badge">Vector</span>
           <span class="badge">Fluentd/FluentBit</span>
+          <span class="badge">Victoria</span>
           <span class="badge">Python</span>
           <span class="badge">Go Lang</span>
           <span class="badge">Java</span>
@@ -195,17 +202,17 @@
         <h2>Projects</h2>
         <div class="item">
           <div class="role">Observability Platform Modernization</div>
-          <div class="meta">Prometheus + Thanos/Mimir + Vector/OTel + Loki + Tempo + Grafana • 2025</div>
+          <div class="meta">Prometheus + Thanos/Mimir + Vector/OTel + Loki + Tempo + Grafana • 2026</div>
           <ul>
-            <li>Migrated fragmented monitoring to a unified stack running in k8s with service-level dashboards and alerts.</li>
-            <li>Reduced false positives by tuning alerting with multi-signal correlation and SLO-based alerts.</li>
+            <li>Migrated fragmented monitoring to a unified, cloud-native observability stack deployed on Kubernetes, with service-level dashboards, alerts, and full metrics-logs-traces correlation</li>
+            <li>Improved alerting accuracy by correlating metrics, logs, traces and SLO-based alerting</li>
           </ul>
         </div>
         <div class="item">
           <div class="role">Deployment Automation</div>
-          <div class="meta"> GitOps + ArgoCD/Jenkins + Terraform + Ansible • 2025</div>
+          <div class="meta"> GitOps + ArgoCD/Jenkins + Terraform + Ansible + Kubernetes• 2026</div>
           <ul>
-            <li>Implemented GitOps workflows, standardized environments, and minimized manual changes.</li>
+            <li>Implemented GitOps workflows on Kubernetes using ArgoCD, standardizing environment configuration and eliminating manual drift through declarative infra-as-code practices.</li>
           </ul>
         </div>
       </section>
