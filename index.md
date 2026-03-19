@@ -99,13 +99,13 @@
       <section class="section">
         <h2>Profile</h2>
         <p class="muted">
-            Site Reliability, Platform & DevOps Engineer with 10+ years of experience designing, building, and scaling reliable systems across on-prem, AWS and Azure environments.
+            Site Reliability, Platform & DevOps Engineer with 10+ years of experience designing, building and scaling reliable systems across on-prem, AWS and Azure environments.
         </p>
         <p class="muted">
-            Deep expertise in observability and monitoring with the Grafana stack (Grafana, Mimir, Loki, Tempo, Prometheus), Thanos, Vector, Splunk, and the ELK stack. Skilled in Kubernetes, CI/CD (Git, Jenkins), Ansible, and Terraform — with a strong track record in performance engineering using Gatling, Locust, JMeter, k6 and LoadRunner.
+            Deep expertise in observability and monitoring with the Grafana stack (Grafana, Mimir, Loki, Tempo, Prometheus), Thanos, Vector, Splunk and the ELK stack. Skilled in Kubernetes, CI/CD (Git, Jenkins), Ansible and Terraform — with a strong track record in performance engineering using Gatling, Locust, JMeter, k6 and LoadRunner.
         </p>
         <p class="muted">
-            Proficient in Go, Java, Python, Scala, C/C#, and Shell scripting. Hands-on experience in troubleshooting complex systems, application profiling, performance tuning and security assessment.
+            Proficient in Go, Java, Python, Scala, C/C# and Shell scripting. Hands-on experience in troubleshooting complex systems, application profiling, performance tuning and security assessment.
         </p>
       </section>
 
@@ -204,7 +204,7 @@
           <div class="role">Observability Platform Modernization</div>
           <div class="meta">Prometheus + Thanos/Mimir + Vector/OTel + Loki + Tempo + Grafana • 2026</div>
           <ul>
-            <li>Migrated fragmented monitoring to a unified, cloud-native observability stack deployed on Kubernetes, with service-level dashboards, alerts, and full metrics-logs-traces correlation</li>
+            <li>Migrated fragmented monitoring to a unified, cloud-native observability stack deployed on Kubernetes, with service-level dashboards, alerts and full metrics-logs-traces correlation</li>
             <li>Improved alerting accuracy by correlating metrics, logs, traces and SLO-based alerting</li>
           </ul>
         </div>
