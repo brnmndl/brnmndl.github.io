@@ -129,7 +129,7 @@
         <h2>Experience</h2>
         <div class="item">
           <div class="role">Site Reliability Engineer — FDJ (La Française des Jeux)</div>
-          <div class="meta">March 2025 - Stockholm, Sweden</div>
+          <div class="meta">March 2025 - Present • Stockholm, Sweden</div>
           <ul>
             <li>Owned reliability KPIs (SLIs/SLOs) and drove error budget policy across critical services.</li>
             <li>Improved observability with unified metrics, logs and traces; reduced MTTR via structured runbooks and automated alerting.</li>
