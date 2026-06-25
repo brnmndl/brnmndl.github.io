@@ -32,7 +32,7 @@
   .role{font-weight:600;font-size:16px}
   .meta{font-size:13px;color:var(--muted);margin-bottom:2px}
   .badge{display:inline-block;border:1px solid var(--border);border-radius:4px;
-    padding:1px 6px;margin:1px 3px 1px 0;font-size:9px;white-space:nowrap;color:#333;background:#fafafa}
+    padding:1px 6px;margin:1px 3px 1px 0;font-size:11px;white-space:nowrap;color:#333;background:#fafafa}
   @page{size:A4;margin:0}
   @media print{ a{color:inherit} }
 </style>
@@ -81,9 +81,10 @@
           <div class="role">Site Reliability Engineer — Kindred Group plc</div>
           <div class="meta">Jun 2021 – Mar 2025 · Stockholm, Sweden</div>
           <ul>
-            <li>Modernised observability platform (Prometheus + Thanos/Mimir, Loki, Tempo, Grafana, OpenTelemetry).</li>
-            <li>Standardised GitOps deployments with ArgoCD, Terraform and Ansible across multi-cluster Kubernetes.</li>
-            <li>Led performance & capacity engineering for high-traffic betting platforms.</li>
+            <li>Modernised observability for 100+ microservices: migrated to Grafana + Prometheus + Thanos/Mimir + Loki + Tempo, with full metrics-logs-traces correlation.</li>
+            <li>Implemented GitOps on multiple Kubernetes cluster with ArgoCD, Terraform, Ansible, Jenkins — eliminated config drift and shortened release cycles.</li>
+            <li>Tuned backend services (Go, Java) for latency and throughput, working with relational stores (PostgreSQL, MySQL, Oracle) and Kafka.</li>
+            <li>Owned on-call rotations, incident response and blameless postmortems; mentored junior SREs and reviewed design documents across squads.</li>
           </ul>
         </div>
 
@@ -91,7 +92,7 @@
           <div class="role">Performance Engineer — Derivco Sports</div>
           <div class="meta">Oct 2018 – Jun 2021 · Stockholm, Sweden</div>
           <ul>
-            <li>Designed load and stress testing strategies with Gatling, k6, JMeter and LoadRunner.</li>
+            <li>Designed load and resilience tests (k6, Gatling, JMeter, Locust) for high-throughput betting backends; identified DB and service bottlenecks at scale.</li>
             <li>Profiled and tuned JVM/Go services, reducing tail latency and infrastructure cost.</li>
           </ul>
         </div>
@@ -99,35 +100,15 @@
         <div class="item">
           <div class="role">Senior Consultant — PwC India</div>
           <div class="meta">Jan 2015 – Sep 2018 · Kolkata, India</div>
-          <ul><li>Performance & reliability consulting for enterprise clients; security testing (SQLi, XSS).</li></ul>
+          <ul><li>Led reliability, performance and capacity engagements for enterprise clients; delivered design and remediation roadmaps end-to-end.</li></ul>
         </div>
 
         <div class="item">
           <div class="role">Performance Engineer — Cognizant</div>
           <div class="meta">Aug 2012 – Jan 2015 · Kolkata, India</div>
-          <ul><li>Performance testing and tuning for large-scale enterprise applications.</li></ul>
+          <ul><li>Performance engineering for Java backends and relational databases; automated test pipelines and reporting.</li></ul>
         </div>
       </div>
-
-      <div class="section">
-        <h2>Selected Projects</h2>
-        <div class="item">
-          <div class="role">Observability Platform Modernisation</div>
-          <div class="meta">Prometheus · Thanos/Mimir · Vector/OTel · Loki · Tempo · Grafana</div>
-          <ul>
-            <li>Migrated fragmented monitoring to a unified, cloud-native stack on Kubernetes with service-level dashboards and full metrics–logs–traces correlation.</li>
-            <li>Improved alerting accuracy through SLO-based alerting and signal correlation.</li>
-          </ul>
-        </div>
-        <div class="item">
-          <div class="role">Deployment Automation</div>
-          <div class="meta">GitOps · ArgoCD · Jenkins · Terraform · Ansible · Kubernetes</div>
-          <ul>
-            <li>Implemented GitOps workflows with ArgoCD, standardising environment config and eliminating manual drift through declarative IaC.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
 
     <div>
       <div class="section">
