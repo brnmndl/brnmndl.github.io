@@ -18,7 +18,7 @@
     border-bottom:2px solid var(--text);padding-bottom:8px;margin-bottom:10px;}
   .name{font-size:24px;font-weight:700;line-height:1.1;letter-spacing:-0.01em}
   .title{font-size:12px;color:var(--muted);margin-top:2px;text-transform:uppercase;letter-spacing:0.08em}
-  .contact{text-align:right;font-size:10px;line-height:1.5;color:var(--muted)}
+  .contact{text-align:right;font-size:11px;line-height:1.5;color:var(--muted)}
   .contact p{margin:0}
   .grid{display:grid;grid-template-columns:1.6fr 1fr;gap:18px}
   .section{margin-bottom:9px}
@@ -46,10 +46,11 @@
       <div class="title">Site Reliability & Platform Engineer</div>
     </div>
     <div class="contact">
-      <p><a href="mailto:brnmndl@gmail.com">brnmndl@gmail.com</a> · +46 709 201 126</p>
+      <p><a href="mailto:brnmndl@gmail.com">brnmndl@gmail.com</a></p>
+      <p>+46 709 201 126</p>
       <p>Stockholm, Sweden</p>
-      <p><a href="https://www.linkedin.com/in/barun-mandal-12660817/">Linkedin</a> ·
-         <a href="https://github.com/brnmndl">Github</a> ·
+      <p><a href="https://www.linkedin.com/in/barun-mandal-12660817/">Linkedin</a> |
+         <a href="https://github.com/brnmndl">Github</a> |
          <a href="https://brnmndl.github.io">Portfolio</a></p>
     </div>
   </header>
