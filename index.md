@@ -109,6 +109,7 @@
           <ul><li>Performance engineering for Java backends and relational databases; automated test pipelines and reporting.</li></ul>
         </div>
       </div>
+    </div>
 
     <div>
       <div class="section">
