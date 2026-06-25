@@ -34,7 +34,25 @@
   .badge{display:inline-block;border:1px solid var(--border);border-radius:4px;
     padding:1px 5px;margin:1px 2px 1px 0;font-size:9px;white-space:nowrap;color:#333;background:#fafafa}
   @page{size:A4;margin:0}
-  @media print{ a{color:inherit} }
+  @media print{
+    a{color:inherit}
+    html,body{font-size:9px;line-height:1.25}
+    .page{padding:8mm 10mm}
+    .name{font-size:18px}
+    .title{font-size:9.5px}
+    .contact{font-size:8.5px}
+    h2{font-size:9px;margin-bottom:3px}
+    .section{margin-bottom:5px}
+    .item{margin-bottom:4px}
+    .role{font-size:9px}
+    .meta{font-size:8px}
+    li{margin-bottom:0}
+    ul{margin:1px 0 2px 0}
+    p{margin-bottom:2px}
+    .badge{font-size:8px;padding:1px 4px}
+    .grid{gap:12px}
+    header{margin-bottom:6px;padding-bottom:4px}
+  }
 </style>
 </head>
 <body>
