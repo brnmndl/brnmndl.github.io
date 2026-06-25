@@ -29,8 +29,8 @@
   ul{margin:2px 0 4px 0;padding-left:14px}
   li{margin-bottom:2px}
   .item{margin-bottom:6px}
-  .role{font-weight:600;font-size:11px}
-  .meta{font-size:9.5px;color:var(--muted);margin-bottom:2px}
+  .role{font-weight:600;font-size:12px}
+  .meta{font-size:10px;color:var(--muted);margin-bottom:2px}
   .badge{display:inline-block;border:1px solid var(--border);border-radius:4px;
     padding:1px 6px;margin:1px 3px 1px 0;font-size:9px;white-space:nowrap;color:#333;background:#fafafa}
   @page{size:A4;margin:0}
