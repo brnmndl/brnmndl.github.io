@@ -10,29 +10,29 @@
   *{box-sizing:border-box}
   html,body{margin:0;padding:0;background:var(--bg);color:var(--text);
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-    font-size:10.5px; line-height:1.35;}
+    font-size:10px; line-height:1.3;}
   a{color:var(--accent);text-decoration:none}
   a:hover{text-decoration:underline}
-  .page{max-width:980px;margin:0 auto;padding:14mm 14mm;}
+  .page{max-width:980px;margin:0 auto;padding:10mm 12mm;}
   header{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:end;
-    border-bottom:2px solid var(--text);padding-bottom:8px;margin-bottom:10px;}
-  .name{font-size:24px;font-weight:700;line-height:1.1;letter-spacing:-0.01em}
-  .title{font-size:12px;color:var(--muted);margin-top:2px;text-transform:uppercase;letter-spacing:0.08em}
-  .contact{text-align:right;font-size:11px;line-height:1.5;color:var(--muted)}
+    border-bottom:2px solid var(--text);padding-bottom:6px;margin-bottom:8px;}
+  .name{font-size:22px;font-weight:700;line-height:1.1;letter-spacing:-0.01em}
+  .title{font-size:11px;color:var(--muted);margin-top:2px;text-transform:uppercase;letter-spacing:0.08em}
+  .contact{text-align:right;font-size:10px;line-height:1.4;color:var(--muted)}
   .contact p{margin:0}
-  .grid{display:grid;grid-template-columns:1.6fr 1fr;gap:18px}
-  .section{margin-bottom:9px}
-  h2{font-size:11px;font-weight:700;letter-spacing:0.1em;margin:0 0 5px 0;
+  .grid{display:grid;grid-template-columns:1.6fr 1fr;gap:16px}
+  .section{margin-bottom:7px}
+  h2{font-size:10.5px;font-weight:700;letter-spacing:0.1em;margin:0 0 4px 0;
     text-transform:uppercase;color:var(--accent);
     border-bottom:1px solid var(--border);padding-bottom:2px;}
-  p{margin:0 0 4px 0}
-  ul{margin:2px 0 4px 0;padding-left:14px}
-  li{margin-bottom:2px}
-  .item{margin-bottom:6px}
-  .role{font-weight:600;font-size:16px}
-  .meta{font-size:13px;color:var(--muted);margin-bottom:2px}
+  p{margin:0 0 3px 0}
+  ul{margin:2px 0 3px 0;padding-left:13px}
+  li{margin-bottom:1px}
+  .item{margin-bottom:5px}
+  .role{font-weight:600;font-size:10.5px}
+  .meta{font-size:9.5px;color:var(--muted);margin-bottom:1px}
   .badge{display:inline-block;border:1px solid var(--border);border-radius:4px;
-    padding:1px 6px;margin:1px 3px 1px 0;font-size:11px;white-space:nowrap;color:#333;background:#fafafa}
+    padding:1px 5px;margin:1px 2px 1px 0;font-size:9px;white-space:nowrap;color:#333;background:#fafafa}
   @page{size:A4;margin:0}
   @media print{ a{color:inherit} }
 </style>
