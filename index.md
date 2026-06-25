@@ -138,11 +138,13 @@
       </div>
 
       <div class="section">
-        <h2>Tooling</h2>
-        <p style="margin-bottom:4px"><strong>Orchestration & IaC:</strong> Kubernetes, Docker, Terraform, Ansible, ArgoCD, Jenkins, GitOps</p>
+        <h2>Tech Stack</h2>
+        <p style="margin-bottom:4px"><strong>Orchestration & IaC:</strong> Kubernetes, Docker, Terraform, Ansible, Helm, ArgoCD, Jenkins, GitOps</p>
+        <p style="margin-bottom:4px"><strong>Platform:</strong> On-prem (OpenStack), AWS, Azure </p>
         <p style="margin-bottom:4px"><strong>Observability:</strong> Grafana, Prometheus, Thanos, Mimir, Loki, Tempo, OpenTelemetry, Vector, Fluentd/Bit, InfluxDB, Victoria, Instana, Splunk, ELK</p>
-        <p style="margin-bottom:4px"><strong>Cloud:</strong> AWS, Azure, On-prem (OpenStack)</p>
         <p style="margin-bottom:4px"><strong>Languages:</strong> Go, Python, Java, Scala, C#, Bash</p>
+        <p style="margin-bottom:4px"><strong>Backend & APIs:</strong> Microservices, REST, gRPC, distributed systems, performance & profiling, design docs, code review</p>
+        <p style="margin-bottom:4px"><strong>Stores:</strong> PostgreSQL, MySQL, SQLite, Redis, Kafka, S3</p>
         <p><strong>Performance:</strong> Gatling, Locust, k6, JMeter, LoadRunner, Neoload</p>
       </div>
 
