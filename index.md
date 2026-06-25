@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title>Barun Mandal — Site Reliability Engineer</title>
+<title>Barun Mandal — Site Reliability & Platform Engineer</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
   :root {
