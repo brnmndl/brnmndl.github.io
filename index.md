@@ -69,10 +69,11 @@
           <div class="role">Site Reliability Engineer — FDJ (La Française des Jeux)</div>
           <div class="meta">Mar 2025 – Present · Stockholm, Sweden</div>
           <ul>
-            <li>Own reliability KPIs (SLIs/SLOs) and error-budget policy across critical services.</li>
-            <li>Unified metrics, logs and traces; reduced MTTR via structured runbooks and automated alerting.</li>
             <li>Operate large-scale production Kubernetes — on-call, incident response and blameless postmortems.</li>
-            <li>Built AI agents and MCP server integrations for metrics discovery and anomaly detection, cutting alert noise and accelerating triage.</li>
+            <li>Unified metrics, logs and traces; reduced MTTR via runbooks and SLO-based alerting.</li>
+            <li>Build and maintain backend tooling in Go and Python for observability automation, deployments and operational workflows.</li>
+            <li>Own reliability KPIs (SLIs/SLOs) and error-budget policy across critical services.</li>
+            <li>Built AI agents and MCP server integrations for intelligent metrics discovery and anomaly detection, reduced alert noise and accelerated triage.</li>
           </ul>
         </div>
 
